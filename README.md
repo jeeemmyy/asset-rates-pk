@@ -3,4 +3,8 @@ Flask app to scrap the current gold & USD rates in Pakistan from Urdupoint websi
 
 Step 1: Create Virtual Enviornment for Flask  
 Step 2: Install Relevant Modules  
-Step 3: Run app.py with command python app.py
+Step 3: Run app.py with command python app.py  
+
+Contact Details:  
+• Email: zaeem.javed1@gmail.com  
+• LinkedIn: https://www.linkedin.com/in/zaeem-javed/
