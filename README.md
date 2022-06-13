@@ -9,6 +9,10 @@ Flask app to scrap the current gold & USD rates in Pakistan from Urdupoint websi
 ```pip install -r requirements.txt```  
 <br/>**Step 3:** Run app.py with below command  
 ```python app.py```    
+<br/>
+## Websites Being Scraped
+• Urdupoint: https://www.urdupoint.com/business/gold-rates-in-pakistan.html
+• Links International: https://www.linkexchange.com.pk/
 
 ## Contact Details:  
 • Email: zaeem.javed1@gmail.com  
