@@ -1,7 +1,7 @@
 # Asset Rates in Pakistan
 Flask app to scrap the current gold & USD rates in Pakistan from Urdupoint website & Links International's website.
 
-<br/>**Step 1:** Clone repo & create Virtual Enviornment for Flask  
+**Step 1:** Clone repo & create Virtual Enviornment for Flask  
 ```python3 -m virtualenv venv```  
 ```source venv/bin/activate```  
 <br/>**Step 2:** Install Relevant Modules  
