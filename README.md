@@ -14,7 +14,7 @@ Flask app to scrap the current gold & USD rates in Pakistan from Urdupoint websi
 • [UrduPoint](https://www.urdupoint.com/business/gold-rates-in-pakistan.html)<br/>
 • [Links International Exchange](https://www.linkexchange.com.pk/)
 
-## Contact Details:  
+## Contact Details  
 • Email: zaeem.javed1@gmail.com  
 • LinkedIn: https://www.linkedin.com/in/zaeem-javed/  
 • Portfolio: https://zaeemjaved1.wixsite.com/zaeem-portfolio/projects
